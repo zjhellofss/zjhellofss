@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on https://github.com/zjhellofss/KuiperInfer .我正在寻找小伙伴和我一同开发课程，分享知识不仅有意义，也能对后来人有所启发，同样对自己也是一种考验和成长。我希望您能熟悉C++和AI相关的基础知识。
 - 📫 How to reach me hellofss@foxmail.com Yizhu-Tech 亿铸智能（杭州），存算一体AI大芯片，欢迎加入。
 
-![Star History Chart](https://api.star-history.com/svg?repos=zjhellofss/KuiperInfer&type=Date)](https://star-history.com/#zjhellofss/KuiperInfer&Date)
+![Star History Chart](https://api.star-history.com/svg?repos=zjhellofss/KuiperInfer&type=Date)
 
 <!---
 zjhellofss/zjhellofss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
